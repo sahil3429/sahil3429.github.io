@@ -42,7 +42,7 @@ navbar.classList.remove('active');
 
 /*========== swiper ==========*/
 var swiper = new Swiper(".mySwiper", {
-    slidesPerView: '3',
+    slidesPerView: 1,
     spaceBetween: 50,
     loop: true,
     grabCursor: true,
@@ -64,7 +64,29 @@ darkModeIcon.onclick = () => {
     darkModeIcon.classList.toggle('bx-sun');
     document.body.classList.toggle('dark-mode');
 };
-
+//*========something ==============*/
+var TrandingSlider = new Swiper('.tranding-slider', {
+    effect: 'coverflow',
+    grabCursor: true,
+    centeredSlides: true,
+    loop: true,
+    slidesPerView: 'auto',
+    coverflowEffect: {
+      rotate: 0,
+      stretch: 0,
+      depth: 100,
+      modifier: 2.5,
+    },
+    pagination: {
+      el: '.swiper-pagination',
+      clickable: true,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    }
+  });
+  
 
 /*========== scroll reveal ==========*/
 ScrollReveal({
