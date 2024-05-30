@@ -42,7 +42,7 @@ navbar.classList.remove('active');
 
 /*========== swiper ==========*/
 var swiper = new Swiper(".mySwiper", {
-    slidesPerView: 1,
+    slidesPerView: 3,
     spaceBetween: 50,
     loop: true,
     grabCursor: true,
