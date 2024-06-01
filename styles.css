@@ -13,9 +13,9 @@
 
 
 :root {
-    --bg-color: #dff8d8;
+    --bg-color: #FFE5B4;
     --text-color: #333;
-    --main-color:#d49058;
+    --main-color:#d58b4e;
     --white-color: #fdfdfd;
     --shadow-color: rgba(0, 0, 0, .2);
     --background-image-page0: url(media/bg1.png);
@@ -73,7 +73,7 @@ body {
 .navbar a {
     position: relative;
     font-size: 1.7rem;
-    color: var(--main-color) ;
+    color: #FFE5B4;
     font-weight: 500;
     margin-right: 3.5rem;
 }
@@ -103,7 +103,7 @@ body {
 
 #darkMode-icon {
     font-size: 2.4rem;
-    color: var(--main-color);
+    color: var(--bg-color);
     cursor: pointer;
 }
 
@@ -285,18 +285,18 @@ section {
     flex-direction: column;
     color: var(--main-color);
     transform: rotate(calc(360deg / 4 * var(--i)));
-    transform-origin: 384px;
+    transform-origin: 370px;
     background: var(--bg-color);
     padding: 13px 0;
 }
 
 .home .profession-box .profession:nth-child(1) i {
-    margin-right: 15px;
+    margin-right: 50px;
 }
 
 .home .profession-box .profession:nth-child(2),
 .home .profession-box .profession:nth-child(4) {
-    padding-bottom: 20px;
+    margin-right: 50px;
 }
 
 .home .profession i {
