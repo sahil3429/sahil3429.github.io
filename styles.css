@@ -64,10 +64,18 @@ body {
 }
 
 .logo {
-    font-size: 2.5rem;
+    display: flex;
+    font-size: 3rem;
     color:var(--main-color) ;
     font-weight: 600;
     margin-right: auto;
+}
+
+.logo img {
+    display: flex;
+    width: 60px;
+    height: 40px;
+
 }
 
 .navbar a {
@@ -77,6 +85,7 @@ body {
     font-weight: 500;
     margin-right: 3.5rem;
 }
+
 
 .header.sticky .navbar a {
     color: var(--text-color);
