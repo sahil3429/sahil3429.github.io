@@ -70,18 +70,18 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="-1.1048543"
-     inkscape:cy="458.51455"
+     inkscape:zoom="0.64"
+     inkscape:cx="582.03125"
+     inkscape:cy="422.65625"
      inkscape:window-width="1920"
      inkscape:window-height="1111"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg1"
+     inkscape:current-layer="g1"
      inkscape:export-bgcolor="#ffffff00" />
   <rect
-     style="display:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:17.4239;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     style="display:none;fill:#ddff55;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:17.4239;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="rect19"
      width="1024.6992"
      height="1025.3174"
@@ -324,10 +324,10 @@
        inkscape:label="Skin" />
     <path
        style="display:inline;fill:#1a1a1a;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-dasharray:none;paint-order:fill markers stroke"
-       d="m 158.2552,270.8378 57.65042,17.61138 7.47565,1.98804 -12.51647,-8.52915 -12.35178,-10.08732 -5.90219,-6.55689 -5.66077,-3.83208 z"
+       d="m 158.50394,276.68323 28.87213,4.88968 28.77829,12.7217 7.47565,1.98804 -12.51647,-8.52915 -12.35178,-10.08732 -5.90219,-6.55689 -5.66077,-3.83208 z"
        id="path3"
        inkscape:label="2nd ear"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="ccccccccc" />
     <path
        style="display:inline;fill:#1a1a1a;fill-rule:evenodd;stroke-width:0.997002;stroke-dasharray:none;paint-order:fill markers stroke"
        d="m 38.23674,293.31222 -0.004,-1.625 5.49229,-2.17186 5.63475,-1.31477 -20.83016,27.68194 -10.25,12.20312 -12.84366,44.89063 -4.125,15.96875 -1,4.71875 23.40625,49.0625 4.09375,2.625 50.375,20.0625 36.55919,1.22631 145.36678,-41.01658 62.42135,-6.88003 28.43708,-6.53733 12.17487,-1.25672 37.375,-36.5008 -27.45679,50.76127 -120.16425,16.93919 -49.04861,19.0472 3.69986,57.2203 -31.26996,25.1411 -84.03233,13.32364 -78.261874,-58.40481 33.200561,14.16694 7.58144,-24.25487 16.842857,5.91489 -8.576483,25.10236 36.06906,15.39095 29.619549,-6.95538 -4.48004,-24.41092 15.77007,-3.9411 9.57454,23.45252 34.15175,-8.01965 -4.31625,-43.77022 -99.76835,11.53053 -60.43256,-33.01784 12.17252,14.50051 -17.16943,34.28364 -1.2043,-0.006 1.21534,-3.18198 3.05097,-26.06631 -33.85156,-70.90578 -0.1875,-3.53125 19.86221,-62.60031 4.54404,-12.08719 14.8572,-13.89899 z"
